@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+env/
+venv/
+.venv/
+conda-env/
+*.env
+
+# VSCode settings 
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Data files (optional, if you don’t want to track large/private data)
+*.csv
+*.tsv
+*.h5
+*.npz
+*.pkl
+*.joblib
+
+# Log files
+*.log
