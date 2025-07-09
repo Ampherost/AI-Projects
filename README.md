@@ -1,0 +1,1 @@
+This repository contains a series of small projects made with applications of Artificial Intelligence
